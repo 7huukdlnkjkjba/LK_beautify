@@ -8,7 +8,7 @@
 
 ## 你的一辈子
 
-![你的一辈子]()
+![你的一辈子](https://github.com/7huukdlnkjkjba/LK_beautify/blob/main/2656e9805e76c52f9430a064a5c57ef6.jpg)
 
 ## 美化app
 
